@@ -13,6 +13,11 @@ html {
     height: auto;
 }
 
+.dishimg {
+    width: 300px;
+    height: auto;
+}
+
 h1#headtitle {
     text-align: center;
     background-color: gold;
