@@ -1,0 +1,16 @@
+.recipelist {
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+
+.recipeimg {
+    width: 200px;
+    height: auto;
+}
+
+h1#headtitle {
+    text-align: center;
+    background-color: gold;
+    color: black; 
+}
