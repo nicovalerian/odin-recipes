@@ -1,3 +1,7 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .recipelist {
     font-size: 20px;
     color: black;
