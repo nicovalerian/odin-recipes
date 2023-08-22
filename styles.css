@@ -33,7 +33,8 @@ h1#headtitle {
     color: black; 
     padding: 1em;
     width: 9em;
-    height: 9em;
+    height: 3em;
     display: flex;
     align-items: center;
+    font-size: 2em;
 }
