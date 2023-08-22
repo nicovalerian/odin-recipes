@@ -22,8 +22,18 @@ html {
     height: auto;
 }
 
+.header {
+    display: flex;
+    justify-content: center;
+}
+
 h1#headtitle {
     text-align: center;
     background-color: gold;
     color: black; 
+    padding: 1em;
+    width: 9em;
+    height: 9em;
+    display: flex;
+    align-items: center;
 }
