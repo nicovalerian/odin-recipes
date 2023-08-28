@@ -44,6 +44,10 @@ h1#headtitle {
     font-size: 2em;
 }
 
+.content {
+    display: flex;
+}
+
 li {
     list-style-type: none;
 }
