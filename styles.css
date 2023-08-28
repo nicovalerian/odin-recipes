@@ -43,3 +43,7 @@ h1#headtitle {
     align-items: center;
     font-size: 2em;
 }
+
+li {
+    list-style-type: none;
+}
